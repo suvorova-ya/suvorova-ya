@@ -17,7 +17,7 @@
 `Python 3+` `AsyncIO` `FastAPI` `Django` `SQLAlchemy` `Alembic` `Redis` `Kafka / Redpanda`  
 `Docker` `Celery` `Pydantic` `Pytest` `PostgreSQL` `Locust` `Git / GitHub`
 
-### 🛠️ Также работала с:
+###  Также работала с:
 
 `React (базово)` `JavaScript (базово)` `HTML / CSS` `OpenWeather API` `Яндекс.Карты API` `WebSockets`
 
