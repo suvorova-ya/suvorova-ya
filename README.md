@@ -23,7 +23,7 @@
 
 📫 Свяжитесь со мной:
 
-LinkedIn: Яна Суворова
+LinkedIn: Яна Суворова   https://www.linkedin.com/in/%D1%8F%D0%BD%D0%B0-%D1%81%D1%83%D0%B2%D0%BE%D1%80%D0%BE%D0%B2%D0%B0-17707b375/
 
 Email: suvorova_ya@outlook.com
 
